@@ -7,7 +7,7 @@ The idea characteristic of A.I. is it's ability to rationlize and take actions t
 A subset of A.I. is Machine Learning (M.L,) which reffers to the concept that computer programms can automatically learn from and adopt to new data without being assisted by humans.
 Deep Learning techniques enable the automatic learning through huge ammount of unstructerd data as text, images or videos.
 
->> "The art of creating machines that perform functions that required intalligance when performed by people"
+>> "The art of creating machines that perform functions that required intelligence when performed by people"
 -- _Kucz Weil_, 1980
 
 >> "The study of how to make computer to think at which, at the moment people are better"
