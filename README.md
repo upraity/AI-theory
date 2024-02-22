@@ -8,4 +8,4 @@ This repo contains theoritical content about AI
 - [Expert-System](Expert-System)
 <!-- - [Knowledge-Pyramid](Knowledge-Pyramid) -->
 - [Depth First Search](Depth-First-Search)
-
+- [Hill Climbing Method](Hill-Climbing-Method)
