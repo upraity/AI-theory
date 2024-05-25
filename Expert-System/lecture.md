@@ -46,3 +46,5 @@
  * In the finance domain. In the finance industries, it is used to detect any type of possible fraud, suspicious activity, and advise bankers that if they should provide loans for business or not.
  * In the diagnosis and troubleshooting of devices. In medical diagnosis, the ES system is used, and it was the first area where these systems were used.
  * Planning and Scheduling. The expert systems can also be used for planning and scheduling some particular tasks for achieving the goal of that task.
+
+> By- _Aman Babu Hemant_ 
